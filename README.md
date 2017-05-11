@@ -14,3 +14,7 @@ Pig Latin is a language game, where you move the first letter of the word to the
 ### Unit 4: Taking a vacation
 #### Instructions
 Create a simple program that calculates typical vacation costs
+
+### Unit 5: A Day at the Supermarket
+#### Instructions
+Create a simple program that fulfills a grocery order by returning a price and adjusting inventory
