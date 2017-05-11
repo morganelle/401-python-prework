@@ -18,3 +18,7 @@ Create a simple program that calculates typical vacation costs
 ### Unit 5: A Day at the Supermarket
 #### Instructions
 Create a simple program that fulfills a grocery order by returning a price and adjusting inventory
+
+### Unit 6: The Student Becomes the Teacher
+#### Instructions
+Create a simple program that stores, averages and grades individual and groups of students
