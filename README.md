@@ -22,3 +22,7 @@ Create a simple program that fulfills a grocery order by returning a price and a
 ### Unit 6: The Student Becomes the Teacher
 #### Instructions
 Create a simple program that stores, averages and grades individual and groups of students
+
+### Unit 7: Battleship!
+#### Instructions
+Create a one-player Battleship game where the user guesses and the program provides feedback and game status info
